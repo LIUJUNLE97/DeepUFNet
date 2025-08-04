@@ -13,3 +13,5 @@ Highlights:
 4. SPOD for results quantification. 
 
 Keywords: Physics-aware Deep learning, Fourier Neural Network, SPOD, spatiotemporal forecast, Wind Tunnel Testing
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16739156.svg)](https://doi.org/10.5281/zenodo.16739156)
