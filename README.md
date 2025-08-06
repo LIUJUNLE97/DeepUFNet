@@ -18,7 +18,7 @@ Please cite:
 
 @misc{liu2025spatiotemporalwallpressureforecast,
       title={Spatiotemporal wall pressure forecast of a rectangular cylinder with physics-aware DeepUFNet}, 
-      author={Junle Liu and Chang Liu and Yanyu Ke and Wenliang Chen and Kihing Shum and K. T. Tse and Gang Hu},
+      author={Junle Liu, Chang Liu, Yanyu Ke, Wenliang Chen, Kihing Shum, K. T. Tse and Gang Hu},
       year={2025},
       eprint={2508.03183},
       archivePrefix={arXiv},
