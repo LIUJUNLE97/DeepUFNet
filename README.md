@@ -14,4 +14,15 @@ Highlights:
 
 Keywords: Physics-aware Deep learning, Fourier Neural Network, SPOD, spatiotemporal forecast, Wind Tunnel Testing
 
+Please cite:
+@misc{liu2025spatiotemporalwallpressureforecast,
+      title={Spatiotemporal wall pressure forecast of a rectangular cylinder with physics-aware DeepUFNet}, 
+      author={Junle Liu and Chang Liu and Yanyu Ke and Wenliang Chen and Kihing Shum and K. T. Tse and Gang Hu},
+      year={2025},
+      eprint={2508.03183},
+      archivePrefix={arXiv},
+      primaryClass={physics.flu-dyn},
+      url={https://arxiv.org/abs/2508.03183}, 
+}
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16739156.svg)](https://doi.org/10.5281/zenodo.16739156)
